@@ -9,3 +9,5 @@ Just feel free to reach me out or post a pull request
 
 ## 👩‍💻 Useful resources
 I'm working on it!
+
+<img alt="42 Logo" src="https://raw.githubusercontent.com/yboudoui/.github/main/profile/42_logo.svg" width="70px" />
