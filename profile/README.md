@@ -10,3 +10,14 @@ Just feel free to reach me out or post a pull request
 
 ## 👩‍💻 Useful resources
 I'm working on it!
+
+<form>
+<input type="button" value="Cliquez moi" onClick="Message()">
+</form>
+<script type="text/javascript">
+   function Message() {
+       var msg="Message sur la ligne 1.nMessage sur la ligne 2.n...";
+       console.log(msg)
+       alert(msg);
+   }
+</script>
